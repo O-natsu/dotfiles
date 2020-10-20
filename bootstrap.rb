@@ -51,19 +51,12 @@ include_definitions :rmpkg
 include_definitions :ln
 
 include_cookbook :os
-include_cookbook :alacritty
-include_cookbook :clojure
 include_cookbook :go
 include_cookbook :node
 include_cookbook :tmux
-include_cookbook :ruby
 include_cookbook :docker
 include_cookbook :rust
 include_cookbook :fish
 include_cookbook :vscode
 include_cookbook :vim
 include_cookbook :cli
-
-if manjaro_linux?
-  # include_cookbook :gnome3
-end
