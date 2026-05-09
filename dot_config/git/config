@@ -1,0 +1,6 @@
+[user]
+	name = O-natsu
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
