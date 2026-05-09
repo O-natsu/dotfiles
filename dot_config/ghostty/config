@@ -1,1 +1,15 @@
 theme = Catppuccin Mocha
+font-family = "BlexMono Nerd Font Mono"
+font-size = 14
+
+window-padding-x = 25
+window-padding-y = 25
+window-padding-color = extend
+window-width = 140
+window-height = 40
+window-save-state = always
+
+background-opacity = 1.0
+
+command = /opt/homebrew/bin/fish --login --interactive
+shell-integration = fish
